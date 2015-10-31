@@ -1,0 +1,2 @@
+this is a test1 file 
+it is used to examing the funciton of add and commit file to Git library
